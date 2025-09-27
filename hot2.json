@@ -1,6 +1,6 @@
 [
     {
-        "name": "testing 7",
+        "name": "testing 12",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
@@ -10,8 +10,8 @@
                 "is_enterprise": false,
                 "variant_name": "Special For You",
                 "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
-                "option_name": "BONUS #TraktiranXL 28th Anniversary",
-                "order": 7
+                "option_name": "Main Quota 1GB",
+                "order": 12
             },
             {
                 "family_name": "Work & School",
