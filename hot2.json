@@ -1,17 +1,44 @@
 [
     {
-        "name": "addon xcp",
+        "name": "sp data",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
             {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
+                "family_name": "Xtra Combo Flex - SP After",
+                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
                 "is_enterprise": false,
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "YouTube 10GB",
-                "order": 18
+                "variant_name": "Xtra Combo Flex",
+                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
+                "option_name": "SP 500MB, 30hr",
+                "order": 8
+            },
+            {
+                "family_name": "Xtra Combo Flex - SP After",
+                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
+                "is_enterprise": false,
+                "variant_name": "Xtra Combo Flex",
+                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
+                "option_name": "SP 500MB, 30hr",
+                "order": 8
+            },
+                        {
+                "family_name": "Xtra Combo Flex - SP After",
+                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
+                "is_enterprise": false,
+                "variant_name": "Xtra Combo Flex",
+                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b"
+                "option_name": "Paket Pelanggan Baru 100MB",
+                "order": 1
+            },
+                        {
+                "family_name": "Xtra Combo Flex - SP After",
+                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
+                "is_enterprise": false,
+                "variant_name": "Xtra Combo Flex",
+                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b"
+                "option_name": "Paket Pelanggan Baru 100MB",
+                "order": 1
             },
             {
                 "family_name": "Work & School",
