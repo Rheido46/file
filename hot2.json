@@ -1,6 +1,6 @@
 [
     {
-        "name": "testing2",
+        "name": "testing3",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
@@ -10,8 +10,8 @@
                 "is_enterprise": false,
                 "variant_name": "Xtra Combo Flex",
                 "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "Xtra Combo Flex XXXL",
-                "order": 17    
+                "option_name": "Xtra Combo Flex XXL",
+                "order": 12
             },
             {
                 "family_name": "Work & School",
