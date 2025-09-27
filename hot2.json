@@ -1,17 +1,17 @@
 [
     {
-        "name": "test",
+        "name": "Masa Aktif 1 bulan",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
             {
-                "family_name": "BIZ Data+",
-                "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
-                "is_enterprise": true,
-                "variant_name": "BIZ Data+",
-                "variant_code": "e8ea6f67-397b-48c1-b87c-980c72f91e64",
-                "option_name": "BIZ Data+ 12GB",
-                "order": 4        
+                "family_name": "Akrab",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
+                "is_enterprise": false,
+                "variant_name": "Akrab",
+                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+                "option_name": "19GB for 2 Members",
+                "order": 8
             },
             {
                 "family_name": "Work & School",
