@@ -1,17 +1,17 @@
 [
     {
-        "name": "testing 6",
+        "name": "testing 7",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
             {
-                "family_name": "Xtra Combo Flex - SP After",
-                "family_code": "ccb162e6-b7cf-4162-8e3f-662e67cbb4cb",
+                "family_name": "Special For You",
+                "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
                 "is_enterprise": false,
-                "variant_name": "Xtra Combo Flex",
-                "variant_code": "7b1fb444-0da1-4a2e-af34-2e944ce9467b",
-                "option_name": "SP 100MB, 30hr",
-                "order": 6
+                "variant_name": "Special For You",
+                "variant_code": "64f25a7d-11d3-4de6-a527-cf69b880ad8d",
+                "option_name": "BONUS #TraktiranXL 28th Anniversary",
+                "order": 7
             },
             {
                 "family_name": "Work & School",
