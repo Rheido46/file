@@ -1,17 +1,17 @@
 [
     {
-        "name": "Masa Aktif 1 bulan",
+        "name": "test",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
             {
-                "family_name": "EduConference",
-                "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
+                "family_name": "BIZ Data+",
+                "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
                 "is_enterprise": true,
-                "variant_name": "EduConference",
-                "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
-                "option_name": "EduConference 30GB, Rp.10",
-                "order": 1
+                "variant_name": "BIZ Data+",
+                "variant_code": "e8ea6f67-397b-48c1-b87c-980c72f91e64",
+                "option_name": "BIZ Data+ 12GB",
+                "order": 4        
             },
             {
                 "family_name": "Work & School",
