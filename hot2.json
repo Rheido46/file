@@ -1,17 +1,17 @@
 [
     {
-        "name": "akrab",
+        "name": "akrab2",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
             {
                 "family_name": "Bonus Paket Akrab",
                 "family_code": "a677d649-3c5a-46c2-a043-cb69ac841208",
-                "is_enterprise": null,
+                "is_enterprise": false,
                 "variant_name": "Bonus Paket Akrab",
                 "variant_code": "dafb26ca-cb3e-4b3d-a8eb-2447fef35f6a",
                 "option_name": "Bonus Paket Akrab",
-                "order": 1
+                "order": 2
             },
             {
                 "family_name": "Work & School",
