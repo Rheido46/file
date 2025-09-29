@@ -1,18 +1,9 @@
 [
     {
-        "name": "addon-xcp",
+        "name": "addons-xcp",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "Free Fire 15GB",
-                "order": 10
-            },
             {
                 "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
                 "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
