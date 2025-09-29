@@ -1,6 +1,6 @@
 [
     {
-        "name": "addons-xcp",
+        "name": "addonxcp",
         "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
@@ -10,17 +10,8 @@
                 "is_enterprise": false,
                 "variant_name": "Bonus Xtra Combo Plus 15GB",
                 "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "Viu 15GB",
-                "order": 13
-            },
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "Netflix 15GB",
-                "order": 16
+                "option_name": "YouTube 10GB",
+                "order": 18
             },
             {
                 "family_name": "Work & School",
